@@ -13,7 +13,7 @@ public class ProgramaPrincipal {
             System.out.println(e.getMessage());
             /**
              * eu peguei a minha exceção "RuntimeException" dei o nome de "e"
-             * imprimi na tela a mensagem chamando o "e.getMessage()"
+             * Vou imprimir na tela a mensagem chamando o "e.getMessage()"
              */
         }
     }
